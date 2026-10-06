@@ -24,7 +24,7 @@ C’est une grande joie d'ouvrir officiellement cette page, qui, j’espère mar
 * Le concept se précise et s’enrichit : ajout des notions de charge mentale, difficulté, éligibilité, saisonnalité et satisfaction.
 * Deuxième cycle d’attribution au Centre des femmes de la Basse-Ville.
 * Conception du logigramme avec [Sébastien Meghezi, Ph.D.](https://www.linkedin.com/in/sebastienmeghezi/) et rédaction du cahier des charges avec Baseline, coopérative de solidarité en intelligence artificielle.
-* Poursuite de la validation entrepreneuriale avec l'[École des entrepreneurs du Québec](https://www.linkedin.com/school/ecole-des-entrepreneurs-du-quebec/) et l'incubateur technologique [LE CAMP]([https://www.linkedin.com/)](https://www.linkedin.com/company/le-camp-quebec/posts/?feedView=all).
+* Poursuite de la validation entrepreneuriale avec l'[École des entrepreneurs du Québec](https://www.linkedin.com/school/ecole-des-entrepreneurs-du-quebec/) et l'incubateur technologique [LE CAMP](https://www.linkedin.com/company/le-camp-quebec/posts/?feedView=all).
 * Participation à des activités de réflexion sur « L’intelligence collective à l'air de l’intelligence artificielle » proposé par Centr’Aide (Université Laval) et à la conférence de [Karl Delors Koyo, SHRM-SCP](https://www.linkedin.com/in/karl-delors-koyo-shrm-scp-a3472322/) “Réinventer les RH avec l’IA générative” au [Rendez-vous RH Québec](https://www.linkedin.com/company/rendez-vous-rh-qu%C3%A9bec/) de Québec International - Super évènement !
 
 ### 2026 — ReLiance
