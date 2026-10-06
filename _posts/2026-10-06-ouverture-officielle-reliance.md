@@ -39,7 +39,7 @@ C’est une grande joie d'ouvrir officiellement cette page, qui, j’espère mar
 </div>
 
 <div class="post-source">
-  <em>Source : <a href="[URL_DU_POST_LINKEDIN](https://www.linkedin.com/posts/reliance-worktech_cest-une-grande-joie-douvrir-officiellement-activity-7510790509100191744-lmH5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA8UiIwBPwz4AiKXqFpF7jnrtBdLw41dwtY)" target="_blank">Consulter la publication originale sur LinkedIn</a></em>
+  <em>Source : <a href="[https://www.linkedin.com/posts/reliance-worktech_cest-une-grande-joie-douvrir-officiellement-activity-7510790509100191744-lmH5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA8UiIwBPwz4AiKXqFpF7jnrtBdLw41dwtY]" target="_blank">Consulter la publication originale sur LinkedIn</a></em>
 </div>
 
 </div>
