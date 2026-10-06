@@ -11,7 +11,7 @@ Une démarche de gestion collective au Centre des femmes de la Basse-Ville fait 
 
 ### 2024 — L'expérimentation
 
-* Isabelle Naton élabore trois questionnaires (avec la généreuse relecture et les précieux commentaires de [Sandra McKeown, CRHA, coach PCC]((https://www.linkedin.com/in/sandra-covectis/)) - Merci encore à elle), construit un premier algorithme sous Excel et valide un premier cycle d’attribution avec les travailleuses.
+* Isabelle Naton élabore trois questionnaires (avec la généreuse relecture et les précieux commentaires de [Sandra McKeown, CRHA, coach PCC](https://www.linkedin.com/in/sandra-covectis/) - Merci encore à elle), construit un premier algorithme sous Excel et valide un premier cycle d’attribution avec les travailleuses.
 * Naissance de Task & Match (TAM).
 * 1ere démarche de validation entrepreneuriale dans le cadre du Parcours EntrepreneuE Desjardins.
 
