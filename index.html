@@ -20,6 +20,7 @@
             padding: 0 !important;
             width: 100% !important;
             background-color: transparent !important;
+            font-family: 'Montserrat', sans-serif;
         }
 
         /* En-tête complet */
@@ -34,7 +35,7 @@
         .logo-black-bg {
             background-color: #000000 !important;
             width: 100% !important;
-            padding: 2rem 0 !important;
+            padding: 2rem 0 1rem 0 !important;
             margin: 0 !important;
             display: flex !important;
             justify-content: center !important;
@@ -53,6 +54,46 @@
             height: auto !important;
         }
 
+        /* Menu de navigation */
+        .main-nav {
+            background-color: #000000 !important;
+            width: 100% !important;
+            padding: 1rem 0 1.5rem 0 !important;
+            border-bottom: 2px solid #8e27ec; /* Ligne de séparation violette */
+        }
+
+        .nav-list {
+            list-style: none !important;
+            margin: 0 !important;
+            padding: 0 !important;
+            display: flex !important;
+            justify-content: center !important;
+            align-items: center !important;
+            gap: 2rem !important;
+            flex-wrap: wrap !important;
+        }
+
+        .nav-list li a {
+            color: #ffffff !important;
+            text-decoration: none !important;
+            font-weight: 600 !important;
+            font-size: 1rem !important;
+            transition: color 0.3s ease !important;
+        }
+
+        .nav-list li a:hover {
+            color: #b9f1aa !important; /* Vert clair au survol */
+        }
+
+        .nav-list li a.blog-link {
+            color: #3dc7c9 !important; /* Couleur turquoise d'accentuation pour le Blog */
+            font-weight: 700 !important;
+        }
+
+        .nav-list li a.blog-link:hover {
+            color: #ffffff !important;
+        }
+
         /* Fond rose pour le texte */
         .text-green-bg {
             background-color: #b9f1aa !important;
@@ -64,7 +105,7 @@
     </style>
 </head>
 <body>
-    <!-- En-tête : Logo sur fond noir + Texte sur fond rose -->
+    <!-- En-tête : Logo sur fond noir + Menu de Navigation -->
     <div class="header-block">
         <div class="logo-black-bg">
             <div class="logo-container">
@@ -72,9 +113,19 @@
             </div>
         </div>
 
+        <!-- Menu de Navigation -->
+        <nav class="main-nav">
+            <ul class="nav-list">
+                <li><a href="#approach">Notre approche</a></li>
+                <li><a href="#about">Qui sommes-nous ?</a></li>
+                <li><a href="#tam">Projet TAM</a></li>
+                <li><a href="#timeline">Réalisations</a></li>
+                <li><a href="/blog" class="blog-link">Blog</a></li>
+            </ul>
+        </nav>
     </div>
 
-      <!-- Sections suivantes (inchangées) -->
+    <!-- Sections suivantes -->
     <section id="approach" class="section" style="padding: 3rem 0; background-color: #ffffff;">
         <div class="container">
             <h2 style="color: #8e27ec; text-align: center; margin-bottom: 2rem; font-size: 2rem;">Notre approche</h2>
@@ -95,7 +146,6 @@
         </div>
     </section>
 
-    <!-- Reste du contenu (inchangé) -->
     <section id="about" class="section" style="background-color: #ffffff; padding: 3rem 0;">
         <div class="container">
             <h2 style="color: #8e27ec; text-align: center; margin-bottom: 2rem; font-size: 2rem;">Qui sommes-nous ?</h2>
@@ -107,39 +157,38 @@
         </div>
     </section>
 
-<section id="about" class="section" style="background-color: #ffffff; padding: 3rem 0;">
-    <div class="container">
-        <h2 style="color: #8e27ec; text-align: center; margin-bottom: 1rem; font-size: 2rem;">TAM — Déployer la force du groupe à travers ses individualités</h2>
-        <p style="font-size: 1.1rem; line-height: 1.8; max-width: 1200px; margin: 0 auto;">
-            Notre premier projet, <strong>TAM</strong>, est un assignateur d’équité qui considère la charge mentale et attribue les tâches selon les intérêts et talents des personnes en place.
-        </p>
-        <div style="text-align: center; margin-bottom: 1.5rem;">
-            <img src="images/logo-tam.png" alt="Logo TAM" style="max-width: 150px;">
+    <section id="tam" class="section" style="background-color: #ffffff; padding: 3rem 0;">
+        <div class="container">
+            <h2 style="color: #8e27ec; text-align: center; margin-bottom: 1rem; font-size: 2rem;">TAM — Déployer la force du groupe à travers ses individualités</h2>
+            <p style="font-size: 1.1rem; line-height: 1.8; max-width: 1200px; margin: 0 auto;">
+                Notre premier projet, <strong>TAM</strong>, est un assignateur d’équité qui considère la charge mentale et attribue les tâches selon les intérêts et talents des personnes en place.
+            </p>
+            <div style="text-align: center; margin-bottom: 1.5rem;">
+                <img src="images/logo-tam.png" alt="Logo TAM" style="max-width: 150px;">
+            </div>
+            <div style="text-align: center; margin-bottom: 2rem;">
+                <img src="images/Schéma Mécanisme assignation équitable 2 têtes écriture.png" alt="Mécanisme d'assignation équitable" style="max-width: 1200px; width: 100%; height: auto;">
+            </div>
+            <div style="text-align: center; margin-bottom: 2rem;">
+                <img src="images/Cycle opérationnel avec Interfaces au 2026-07-27.png" alt="Cycle opérationnel" style="max-width: 1200px; width: 100%; height: auto;">
+            </div>
         </div>
-        <div style="text-align: center; margin-bottom: 2rem;">
-            <img src="images/Schéma Mécanisme assignation équitable 2 têtes écriture.png" alt="Mécanisme d'assignation équitable" style="max-width: 1200px; width: 100%; height: auto;">
-        </div>
-        <div style="text-align: center; margin-bottom: 2rem;">
-            <img src="images/Cycle opérationnel avec Interfaces au 2026-07-27.png" alt="Cycle opérationnel" style="max-width: 1200px; width: 100%; height: auto;">
-        </div>
-    </div>
-</section>
+    </section>
 
-<!-- Section Frise des réalisations -->
-<section id="timeline" class="section" style="background-color: #ffffff; padding: 3rem 0;">
-    <div class="container">
-        <h2 style="color: #8e27ec; text-align: center; margin-bottom: 2rem; font-size: 2rem;">Frise des réalisations et des contributions</h2>
-        <div style="text-align: center; margin-bottom: 2rem;">
-            <img
-                src="images/Frise Réalisations et Contributions.png"
-                alt="Frise des réalisations et des contributions"
-                style="max-width: 1800px; width: 100%; height: auto; border-radius: 8px;"
-            >
+    <!-- Section Frise des réalisations -->
+    <section id="timeline" class="section" style="background-color: #ffffff; padding: 3rem 0;">
+        <div class="container">
+            <h2 style="color: #8e27ec; text-align: center; margin-bottom: 2rem; font-size: 2rem;">Frise des réalisations et des contributions</h2>
+            <div style="text-align: center; margin-bottom: 2rem;">
+                <img
+                    src="images/Frise Réalisations et Contributions.png"
+                    alt="Frise des réalisations et des contributions"
+                    style="max-width: 1800px; width: 100%; height: auto; border-radius: 8px;"
+                >
+            </div>
         </div>
-    </div>
-</section>
-    
-    
+    </section>
+        
     <!-- Pied de page -->
     <footer style="background-color: #000000 !important; color: white !important; padding: 2rem 0 !important; text-align: center !important; margin: 0 !important;">
         <div class="container">
