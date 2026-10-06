@@ -1,7 +1,6 @@
 ---
-layout: post
-title: "Premier test d'article de ReLiance"
+title: "Article test"
 date: 2026-10-05
 ---
 
-Contenu de l'article ici...
+Ceci est un article test.
