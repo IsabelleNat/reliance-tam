@@ -3,14 +3,14 @@ title: "Ouverture officielle de la page ReLiance"
 date: 2026-10-06
 ---
 
-<div class="post-content">
+<div class="post-content" markdown="1">
 
 C’est une grande joie d'ouvrir officiellement cette page, qui, j’espère marquera le début d’une grande aventure. Mais c’est un début public, car cela fait déjà 2 ans que le projet a réellement commencé. Je vous livre donc ici les grandes lignes des étapes qui ont amené **ReLiance** jusqu’à vous :
 
 ### 2023 — Le besoin
 
-<div class="timeline-item">
-  Une démarche de gestion collective au Centre des femmes de la Basse-Ville fait émerger un besoin : abolir le poste de Responsable administrative où le pouvoir est concentré et répartir les tâches administratives à l'ensemble de l'équipe.
+<div class="timeline-item" markdown="1">
+Une démarche de gestion collective au Centre des femmes de la Basse-Ville fait émerger un besoin : abolir le poste de Responsable administrative où le pouvoir est concentré et répartir les tâches administratives à l'ensemble de l'équipe.
 </div>
 
 ### 2024 — L'expérimentation
@@ -33,13 +33,13 @@ C’est une grande joie d'ouvrir officiellement cette page, qui, j’espère mar
 * Rédaction des supports, conception des 1eres maquettes fonctionnelles, préparation du prototypage et formalisation du mécanisme d’assignation équitable.
 * Recherches de partenaires techniques et financiers.
 
-<div class="next-step-box">
-  <strong>Prochaine étape espérée :</strong><br>
-  Conception du prototype logiciel (MVP) de TAM pour le Centre des femmes de la Basse-Ville.
+<div class="next-step-box" markdown="1">
+**Prochaine étape espérée :**  
+Conception du prototype logiciel (MVP) de TAM pour le Centre des femmes de la Basse-Ville.
 </div>
 
 <div class="post-source">
-  <em>Source : <a href="[https://www.linkedin.com/posts/reliance-worktech_cest-une-grande-joie-douvrir-officiellement-activity-7510790509100191744-lmH5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA8UiIwBPwz4AiKXqFpF7jnrtBdLw41dwtY]" target="_blank">Consulter la publication originale sur LinkedIn</a></em>
+  <em>Source : <a href="https://www.linkedin.com/posts/reliance-worktech_cest-une-grande-joie-douvrir-officiellement-activity-7510790509100191744-lmH5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA8UiIwBPwz4AiKXqFpF7jnrtBdLw41dwtY" target="_blank">Consulter la publication originale sur LinkedIn</a></em>
 </div>
 
 </div>
