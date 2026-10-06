@@ -141,3 +141,79 @@ a:hover {
         padding: 2rem 0;
     }
 }
+/* ==========================================================================
+   Styles spécifiques aux articles de Blog (N'affecte pas la page d'accueil)
+   ========================================================================== */
+
+/* Conteneur de l'article de blog */
+.blog-post, 
+.post-content {
+    background-color: #ffffff;
+    padding: 2rem 0;
+}
+
+/* Titres H3 spécifiques au blog (années/jalons) */
+.blog-post h3, 
+.post-content h3 {
+    color: #8e27ec;
+    font-size: 1.5rem;
+    margin-top: 2rem;
+    margin-bottom: 0.8rem;
+    border-bottom: 2px solid #b9f1aa; /* Rappel du vert de l'en-tête */
+    padding-bottom: 0.3rem;
+    display: inline-block;
+}
+
+/* Liste à puces stylisée aux couleurs ReLiance/TAM */
+.blog-post ul, 
+.post-content ul {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 1.5rem;
+}
+
+.blog-post ul li, 
+.post-content ul li {
+    position: relative;
+    padding-left: 1.8rem;
+    margin-bottom: 0.6rem;
+    line-height: 1.6;
+}
+
+.blog-post ul li::before, 
+.post-content ul li::before {
+    content: "•";
+    color: #eea830; /* Orange ReLiance */
+    font-size: 1.5rem;
+    position: absolute;
+    left: 0.5rem;
+    top: -0.2rem;
+}
+
+/* Bloc d'alerte / Prochaine étape */
+.next-step-box {
+    background-color: #f6fdf4;
+    border: 1px solid #78c866;
+    border-left: 5px solid #78c866; /* Vert ReLiance */
+    padding: 1.2rem;
+    border-radius: 6px;
+    margin: 2rem 0;
+}
+
+.next-step-box strong {
+    color: #000000;
+}
+
+/* Lien de source en bas de page */
+.post-source {
+    margin-top: 2.5rem;
+    padding-top: 1rem;
+    border-top: 1px solid #eee;
+    font-size: 0.95rem;
+    color: #666666;
+}
+
+.post-source a {
+    color: #8e27ec;
+    font-weight: 600;
+}
