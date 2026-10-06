@@ -7,7 +7,6 @@ title: Blog
 Nombre d'articles détectés : {{ site.posts.size }}
 
 {% for post in site.posts %}
-## {{ post.title }}
-
-*Publié le {{ post.date   date: "%d/%m/%Y" }}*
+<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+<p>Publié le {{ post.date   date: "%d/%m/%Y" "}}</p>
 {% endfor %}
