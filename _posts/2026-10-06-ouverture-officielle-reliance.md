@@ -31,3 +31,5 @@ Une démarche de gestion collective au Centre des femmes de la Basse-Ville fait 
 
 **Prochaine étape espérée :**  
 Conception du prototype logiciel (MVP) de TAM pour le Centre des femmes de la Basse-Ville.
+
+*Source : [Consulter la publication originale sur LinkedIn](https://www.linkedin.com/posts/reliance-worktech_cest-une-grande-joie-douvrir-officiellement-activity-7510790509100191744-lmH5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA8UiIwBPwz4AiKXqFpF7jnrtBdLw41dwtY)*
