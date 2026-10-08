@@ -14,7 +14,7 @@ Stratégiquement, je veux privilégier cette année les événements technologiq
 En termes d’opportunité, il est difficile de ne pas répondre présent lorsqu’on vous offre la possibilité de participer gratuitement à un événement d’envergure même si cela entraîne des coûts secondaires importants. 
 Question coup de cœur, c'est là où je vais pleurer toutes les larmes de mon corps (je vous jure que je ne suis pas Marseillaise) puisque je fais le choix de ne pas aller à la rencontre de mon mentor virtuel, alias Alias et dragon : Serge Beauchemin. 
 
-### Résultat ? :
+### Résultat ?
 Le coût financier s’est jumelé avec l'opportunité qui a pris le pas sur le coup de cœur. 
 
 Je vous mets par ordre chronologique les événements qui m’ont fait de l'œil.
@@ -24,7 +24,7 @@ Je vous mets par ordre chronologique les événements qui m’ont fait de l'œil
 * [Stratégie PME](https://www.strategiespme.com/) 17-18 nov, Mrtl
 * [36e Gala des Prix Innovation, Adriq](https://www.adriq.com/evenements/evenements-a-venir/36e-gala-des-prix-innovation/) 26 nov, Mrtl
 * [RV RH QC](https://www.quebecinternational.ca/fr/evenements/92724) 3 dec, Qc
-* [RV IA Québec par Québec International et LE CAMP](https://www.quebecinternational.ca/fr/rendez-vous-ia) 9 dec, Qc
+* [RV IA Québec](https://www.quebecinternational.ca/fr/rendez-vous-ia) 9 dec, Qc  par [Québec International](https://www.linkedin.com/company/qu-bec-international/?originalSubdomain=ca) et [LE CAMP](https://www.linkedin.com/company/le-camp-quebec/)
 
 ### Et vous ?
 Avez-vous des plans Évènements avec des objectifs comme on peut avoir des plans de formations ? Et pour me faire remettre tout en question, quel est l’évènement que vous me recommanderiez de ne pas rater cet automne ?
