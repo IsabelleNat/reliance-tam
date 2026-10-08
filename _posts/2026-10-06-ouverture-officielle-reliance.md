@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Ouverture officielle de la page ReLiance"
 date: 2026-10-06
 ---
