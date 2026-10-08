@@ -1,2 +1,8 @@
 title: ReLiance - Projet TAM
+description: ReLiance, laboratoire créatif - ReLier. Simplifier. Innover.
+url: "https://reliance-tam.com"
 permalink: /:year/:month/:day/:title/
+plugins:
+  - jekyll-feed
+feed:
+  posts_limit: 20
