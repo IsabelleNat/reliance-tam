@@ -45,7 +45,7 @@ Conception du prototype logiciel (MVP) de TAM pour le Centre des femmes de la Ba
 
 <!-- 
 Ceci est un commentaire sur plusieurs lignes. : <!-- -->
-Tout ce bloc est masqué.
+<!-- Tout ce bloc est masqué.
 On peut aussi utiliser des listes
 * Premier élément de la liste à puces
 * Deuxième élément de la liste
