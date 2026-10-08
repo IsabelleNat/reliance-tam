@@ -2,10 +2,12 @@
 layout: default
 ---
 <article class="post-content">
-    <p class="post-meta" style="border: none; margin: 0 0 1.5rem; padding: 0; color: #eea830; font-weight: 600;">
+    {{ content }}
+    
+    <p class="post-meta" style="border: none; margin: 1.5rem 0 1rem; padding: 0; color: #eea830; font-weight: 600;">
         Publié le {{ page.date | date: "%Y-%m-%d" }}
     </p>
-    {{ content }}
+    
     <p class="post-meta">
         <a href="/blog/">← Retour au blog</a>
     </p>
