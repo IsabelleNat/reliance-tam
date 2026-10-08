@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ouverture officielle de la page ReLiance"
-date: 2026-10-06
+date: 2026-09-29
 ---
 
 <div class="post-content" markdown="1">
