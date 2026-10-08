@@ -43,4 +43,16 @@ Conception du prototype logiciel (MVP) de TAM pour le Centre des femmes de la Ba
   <em>Source : <a href="https://www.linkedin.com/posts/reliance-worktech_cest-une-grande-joie-douvrir-officiellement-activity-7510790509100191744-lmH5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA8UiIwBPwz4AiKXqFpF7jnrtBdLw41dwtY" target="_blank">Consulter la publication originale sur LinkedIn</a></em>
 </div>
 
+<!-- 
+Ceci est un commentaire sur plusieurs lignes. : <!-- -->
+Tout ce bloc est masqué.
+On peut aussi utiliser des listes
+* Premier élément de la liste à puces
+* Deuxième élément de la liste
+  * Élément imbriqué (ajoutez deux ou quatre espaces d'indentation)
+
+1. Premier élément de la liste numérotée
+2. Deuxième élément de la liste numérotée
+-->
+
 </div>
