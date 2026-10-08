@@ -9,7 +9,7 @@ layout: default
 {% for post in site.posts %}
 <div class="post-card">
     <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-    <p class="post-date">Publié le {{ post.date   date_to_string }}</p>
+    <p class="post-date">Publié le {{ post.date | date: "%Y-%m-%d" }}</p>
     {% if post.excerpt %}{{ post.excerpt | strip_html | truncatewords: 25 }}{% endif %}
 </div>
 {% endfor %}
