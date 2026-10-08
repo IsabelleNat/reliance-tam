@@ -18,7 +18,7 @@ Question coup de cœur, c'est là où je vais pleurer toutes les larmes de mon c
 Le coût financier s’est jumelé avec l'opportunité qui a pris le pas sur le coup de cœur. 
 
 Je vous mets par ordre chronologique les événements qui m’ont fait de l'œil.
-* [Forum CCF](https://fsc-ccf.ca/fr/event/un-avenir-fonde-sur-les-competences-relever-le-defi-des-talents/)) 14 oct Toronto et en ligne, organisé par le [Centre des Compétences futures](https://www.linkedin.com/company/fsc-ccf/)
+* [Forum CCF](https://fsc-ccf.ca/fr/event/un-avenir-fonde-sur-les-competences-relever-le-defi-des-talents/) 14 oct Toronto et en ligne, organisé par le [Centre des Compétences futures](https://www.linkedin.com/company/fsc-ccf/)
 * [FresQC](https://www.fresqc.com/) 26 oct, Qc
 * [Nordiq](https://www.nordiqconference.ca/) 27 oct, Qc
 * [Stratégie PME](https://www.strategiespme.com/) 17-18 nov, Mrtl
