@@ -18,13 +18,13 @@ Question coup de cœur, c'est là où je vais pleurer toutes les larmes de mon c
 Le coût financier s’est jumelé avec l'opportunité qui a pris le pas sur le coup de cœur. 
 
 Je vous mets par ordre chronologique les événements qui m’ont fait de l'œil.
-* [Forum CCF](https://fsc-ccf.ca/fr/event/fsc-at-power-purpose-summit-2026/) 14 oct Toronto et en ligne
+* [Forum CCF](https://fsc-ccf.ca/fr/event/un-avenir-fonde-sur-les-competences-relever-le-defi-des-talents/)) 14 oct Toronto et en ligne, organisé par le [Centre des Compétences futures](https://www.linkedin.com/company/fsc-ccf/)
 * [FresQC](https://www.fresqc.com/) 26 oct, Qc
 * [Nordiq](https://www.nordiqconference.ca/) 27 oct, Qc
 * [Stratégie PME](https://www.strategiespme.com/) 17-18 nov, Mrtl
 * [36e Gala des Prix Innovation, Adriq](https://www.adriq.com/evenements/evenements-a-venir/36e-gala-des-prix-innovation/) 26 nov, Mrtl
-* [RV RH](https://www.quebecinternational.ca/fr/evenements/92724) 3 dec, Qc
-* [RV IA Québec de Québec International et LE CAMP](https://www.quebecinternational.ca/fr/rendez-vous-ia) 9 dec, Qc
+* [RV RH QC](https://www.quebecinternational.ca/fr/evenements/92724) 3 dec, Qc
+* [RV IA Québec par Québec International et LE CAMP](https://www.quebecinternational.ca/fr/rendez-vous-ia) 9 dec, Qc
 
 ### Et vous ?
 Avez-vous des plans Évènements avec des objectifs comme on peut avoir des plans de formations ? Et pour me faire remettre tout en question, quel est l’évènement que vous me recommanderiez de ne pas rater cet automne ?
