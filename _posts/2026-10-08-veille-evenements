@@ -42,7 +42,7 @@ Je reviendrais vous faire des retours de coups de cœur cette fois-ci et de réf
 
 <!-- 
 Ceci est un commentaire sur plusieurs lignes. : <!-- -->
-Tout ce bloc est masqué.
+<!-- Tout ce bloc est masqué.
 On peut aussi utiliser des listes
 * Premier élément de la liste à puces
 * Deuxième élément de la liste
