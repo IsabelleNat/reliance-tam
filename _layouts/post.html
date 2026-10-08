@@ -3,7 +3,7 @@ layout: default
 ---
 <article class="post-content">
     <p class="post-meta" style="border: none; margin: 0 0 1.5rem; padding: 0; color: #eea830; font-weight: 600;">
-        Publié le {{ page.date | date_to_string }}
+        Publié le {{ page.date | date: "%Y-%m-%d" }}
     </p>
     {{ content }}
     <p class="post-meta">
