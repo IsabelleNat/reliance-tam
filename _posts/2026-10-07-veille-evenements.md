@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Faire un plan évènements ?  ou comment faire des choix déchirants face à la multitude d’évènements de l’automne"
-date: 2026-10-07
+date: 2026-10-08
 ---
 
 <div class="post-content" markdown="1">
